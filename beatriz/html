@@ -1,0 +1,9 @@
+<div>
+  <p>meu primeiro texto em HTML</p>
+  <p>meu primeiro texto em HTML</p> 
+</div>
+<div>
+  <h1>clique no link:</h1>
+  <a href="nstagram.com/reels/DEyZPoOpI81/" target="_blank"> ir para o google</a>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_   logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="logo do html"

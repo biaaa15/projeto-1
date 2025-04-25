@@ -1,0 +1,32 @@
+body {
+    background-color: lightcoral;
+}
+
+.container {
+    display: flex;
+     gap: 10px;  
+    /* row-gap: 10px; */
+    /* column-gap: 30px; */
+     height: 600px; 
+    /* flex-flow: column wrap; */
+    /* flex-wrap: wrap; */ 
+    /* justify-content: center; */
+    /* align-items: center; */ 
+    background-color: lightblue;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+
+.item-3 {
+    /* align-self: flex-end; */ 
+    order: -1;
+}
+
+.item-6 {
+    order: 3;
+}
+
